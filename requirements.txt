@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlite3
+matplotlib
+ipython
+pytorch
+sklearn
+seaborn
